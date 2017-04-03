@@ -1,14 +1,15 @@
 /* MBL.is  */
-.social-blogit { display: none; }
+.social-blogit { display: none !important; }
 
 /* Visir.is*/
-.fbcomment { display: none; }
+.fb-comments { display: none !important; }
+.fb-comments span { display: none !important; }
 
 /* DV.is */
-.athugasemdir { display: none; }
+.athugasemdir { display: none !important; }
 
 /* Stundin.is */
-.comments { display: none; }
+.comments { display: none !important; }
 
 /* Eyjan */
-#ummaeli { display: none; }
+#ummaeli { display: none !important; }
